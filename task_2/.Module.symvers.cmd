@@ -1,0 +1,1 @@
+savedcmd_/home/kuminoff/eltex/make/task_2/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/kuminoff/eltex/make/task_2/Module.symvers -T /home/kuminoff/eltex/make/task_2/modules.order -i Module.symvers -e 
